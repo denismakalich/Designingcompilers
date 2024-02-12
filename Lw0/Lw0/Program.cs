@@ -125,7 +125,7 @@ static IEnumerable<string> Ex5(string str)
 */
 static IEnumerable<string> Ex6(string str)
 {
-    Regex regex = new Regex(@"\b(\d{1,3}.){3}\d{1,3}\b", RegexOptions.IgnoreCase);
+    Regex regex = new Regex(@"\b(\d{1,3}\.){3}\d{1,3}\b");
     MatchCollection match = regex.Matches(str);
     List<string> ipv4 = new List<string>();
 
