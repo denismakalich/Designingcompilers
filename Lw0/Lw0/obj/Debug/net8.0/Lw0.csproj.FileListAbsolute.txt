@@ -1,0 +1,15 @@
+C:\Users\makad\OneDrive\Рабочий стол\github\Designingcompilers\Lw0\Lw0\bin\Debug\net8.0\Lw0.exe
+C:\Users\makad\OneDrive\Рабочий стол\github\Designingcompilers\Lw0\Lw0\bin\Debug\net8.0\Lw0.deps.json
+C:\Users\makad\OneDrive\Рабочий стол\github\Designingcompilers\Lw0\Lw0\bin\Debug\net8.0\Lw0.runtimeconfig.json
+C:\Users\makad\OneDrive\Рабочий стол\github\Designingcompilers\Lw0\Lw0\bin\Debug\net8.0\Lw0.dll
+C:\Users\makad\OneDrive\Рабочий стол\github\Designingcompilers\Lw0\Lw0\bin\Debug\net8.0\Lw0.pdb
+C:\Users\makad\OneDrive\Рабочий стол\github\Designingcompilers\Lw0\Lw0\obj\Debug\net8.0\Lw0.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\makad\OneDrive\Рабочий стол\github\Designingcompilers\Lw0\Lw0\obj\Debug\net8.0\Lw0.AssemblyInfoInputs.cache
+C:\Users\makad\OneDrive\Рабочий стол\github\Designingcompilers\Lw0\Lw0\obj\Debug\net8.0\Lw0.AssemblyInfo.cs
+C:\Users\makad\OneDrive\Рабочий стол\github\Designingcompilers\Lw0\Lw0\obj\Debug\net8.0\Lw0.csproj.CoreCompileInputs.cache
+C:\Users\makad\OneDrive\Рабочий стол\github\Designingcompilers\Lw0\Lw0\obj\Debug\net8.0\Lw0.sourcelink.json
+C:\Users\makad\OneDrive\Рабочий стол\github\Designingcompilers\Lw0\Lw0\obj\Debug\net8.0\Lw0.dll
+C:\Users\makad\OneDrive\Рабочий стол\github\Designingcompilers\Lw0\Lw0\obj\Debug\net8.0\refint\Lw0.dll
+C:\Users\makad\OneDrive\Рабочий стол\github\Designingcompilers\Lw0\Lw0\obj\Debug\net8.0\Lw0.pdb
+C:\Users\makad\OneDrive\Рабочий стол\github\Designingcompilers\Lw0\Lw0\obj\Debug\net8.0\Lw0.genruntimeconfig.cache
+C:\Users\makad\OneDrive\Рабочий стол\github\Designingcompilers\Lw0\Lw0\obj\Debug\net8.0\ref\Lw0.dll
